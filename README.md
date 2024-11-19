@@ -18,5 +18,5 @@ Our project uses F-CNN models to perform Multi-Organ image segmentation on MRI s
 ## Contributors
 
 - Kanishk Goel
-- Sandhaya Karki
+- Sandhya Karki
 - Sudhanshu Dotel
